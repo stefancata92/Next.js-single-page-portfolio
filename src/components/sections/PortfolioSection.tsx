@@ -15,22 +15,28 @@ const portfolio = [
     linkTo: "https://betacity.eu/en/",
   },
   {
-    title: "Casa de Cultură a Studenților Timișoara",
-    description: "A website for the Timișoara Student Culture House.",
+    title: "Bienala Timișoreană de Arhitectură",
+    description:
+      "Leading the digital front for Betacity 2022, I crafted a custom WordPress site, embedding multilingual support to resonate globally. The site became a seamless platform for hosting and navigating over 40 architectural events, effortlessly bridging the gap between innovative dialogues and a diverse audience.",
     image: "/images/bienala-timisoreana-de-arhitectura.png",
     technologies: ["Next.js", "Tailwind CSS", "Prismic CMS"],
+    linkTo: "https://betacity.eu/en/",
   },
   {
-    title: "Casa de Cultură a Studenților Timișoara",
-    description: "A website for the Timișoara Student Culture House.",
+    title: "Bienala Timișoreană de Arhitectură",
+    description:
+      "Leading the digital front for Betacity 2022, I crafted a custom WordPress site, embedding multilingual support to resonate globally. The site became a seamless platform for hosting and navigating over 40 architectural events, effortlessly bridging the gap between innovative dialogues and a diverse audience.",
     image: "/images/bienala-timisoreana-de-arhitectura.png",
     technologies: ["Next.js", "Tailwind CSS", "Prismic CMS"],
+    linkTo: "https://betacity.eu/en/",
   },
   {
-    title: "Casa de Cultură a Studenților Timișoara",
-    description: "A website for the Timișoara Student Culture House.",
+    title: "Bienala Timișoreană de Arhitectură",
+    description:
+      "Leading the digital front for Betacity 2022, I crafted a custom WordPress site, embedding multilingual support to resonate globally. The site became a seamless platform for hosting and navigating over 40 architectural events, effortlessly bridging the gap between innovative dialogues and a diverse audience.",
     image: "/images/bienala-timisoreana-de-arhitectura.png",
     technologies: ["Next.js", "Tailwind CSS", "Prismic CMS"],
+    linkTo: "https://betacity.eu/en/",
   },
 ];
 
